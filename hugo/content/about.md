@@ -1,0 +1,29 @@
++++
+date = "2015-12-04T14:55:19+09:00"
+title = "About me"
+weight = 1
++++
+
+# About me
+
+An R&amp;D Engineer working on biomedical simulations and medical image
+processing at Fujitsu Limited, Japan.
+
+## Past affiliations
+
+* [Institute of Math-for-Industry](http://www.imi.kyushu-u.ac.jp/), Kyushu
+  University, Japan
+* Faculty of Mathematics, Kyushu University, Japan
+* [Mathematical Modeling Group](http://mmg.fjfi.cvut.cz/), [Department of
+  Mathematics](http://km.fjfi.cvut.cz/en/), [Faculty of Nuclear Sciences and
+  Physical Engineering](https://www.fjfi.cvut.cz/), Czech Technical University
+  in Prague, Czech Republic
+
+## Research interests
+
+* Scientific computing and software development
+* Numerical optimization
+* Numerical analysis of partial differential equations
+* Multi-scale modeling
+* Medical image processing
+* Computer graphics, physically-based rendering
