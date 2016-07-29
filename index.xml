@@ -17,12 +17,12 @@
       <guid>http://vladimir-ch.github.io/about/</guid>
       <description>
 
-&lt;h1 id=&#34;about-me:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About me&lt;/h1&gt;
+&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;
 
 &lt;p&gt;An R&amp;amp;D Engineer working on biomedical simulations and medical image
 processing at Fujitsu Limited, Japan.&lt;/p&gt;
 
-&lt;h2 id=&#34;past-affiliations:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Past affiliations&lt;/h2&gt;
+&lt;h2 id=&#34;past-affiliations&#34;&gt;Past affiliations&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.imi.kyushu-u.ac.jp/&#34;&gt;Institute of Math-for-Industry&lt;/a&gt;, Kyushu
@@ -34,7 +34,7 @@ Physical Engineering&lt;/a&gt;, Czech Technical University
 in Prague, Czech Republic&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;research-interests:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Research interests&lt;/h2&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Scientific computing and software development&lt;/li&gt;
@@ -55,9 +55,9 @@ in Prague, Czech Republic&lt;/li&gt;
       <guid>http://vladimir-ch.github.io/publications/</guid>
       <description>
 
-&lt;h1 id=&#34;publications:480c4de99851329b51acecc000e2e84f&#34;&gt;Publications&lt;/h1&gt;
+&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
 
-&lt;h2 id=&#34;peer-reviewed-articles:480c4de99851329b51acecc000e2e84f&#34;&gt;Peer-reviewed articles&lt;/h2&gt;
+&lt;h2 id=&#34;peer-reviewed-articles&#34;&gt;Peer-reviewed articles&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;V. Chalupecký, A. Muntean, &lt;a href=&#34;http://dx.doi.org/10.1007/s13160-012-0060-6&#34;&gt;&lt;em&gt;Semi-discrete finite difference multiscale
@@ -84,7 +84,7 @@ Allen-Cahn equation&lt;/em&gt;&lt;/a&gt;. Applied
 Numerical Mathematics&amp;nbsp;&lt;strong&gt;51&lt;/strong&gt; (2004), pp. 187–205&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;peer-reviewed-conference-contributions:480c4de99851329b51acecc000e2e84f&#34;&gt;Peer-reviewed conference contributions&lt;/h2&gt;
+&lt;h2 id=&#34;peer-reviewed-conference-contributions&#34;&gt;Peer-reviewed conference contributions&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;V. Chalupecký, M. Kimura, &lt;em&gt;An energy-consistent model of dislocation dynamics
@@ -108,7 +108,7 @@ Physical Engineering, Czech Technical University in Prague, 2005, ISBN
 80-01-03181-0, pp. 11–24&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;preprints-and-non-peer-reviewed-articles:480c4de99851329b51acecc000e2e84f&#34;&gt;Preprints and non-peer-reviewed articles&lt;/h2&gt;
+&lt;h2 id=&#34;preprints-and-non-peer-reviewed-articles&#34;&gt;Preprints and non-peer-reviewed articles&lt;/h2&gt;
 
 &lt;p&gt;Preprints on &lt;a href=&#34;http://arxiv.org/a/chalupecky_v_1&#34;&gt;arXiv.org&lt;/a&gt;&lt;/p&gt;
 
@@ -147,7 +147,7 @@ and Their Applications, Prague, August 27–31, 2001. [Part 2] Papers. Masaryk
 University, Brno, 2002. pp. 83–101&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;books-book-chapters:480c4de99851329b51acecc000e2e84f&#34;&gt;Books, book chapters&lt;/h2&gt;
+&lt;h2 id=&#34;books-book-chapters&#34;&gt;Books, book chapters&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;A. Muntean, V. Chalupecký, &lt;a href=&#34;http://gcoe-mi.jp/english/publish_list/pub_inner/id:2/cid:15&#34;&gt;&lt;em&gt;Homogenization method and multiscale
@@ -162,7 +162,7 @@ Problems&lt;/a&gt;, Springer
 (2006)&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;phd-thesis:480c4de99851329b51acecc000e2e84f&#34;&gt;PhD thesis&lt;/h2&gt;
+&lt;h2 id=&#34;phd-thesis&#34;&gt;PhD thesis&lt;/h2&gt;
 
 &lt;p&gt;Vladimír Chalupecký, &lt;a href=&#34;http://mmg.fjfi.cvut.cz/~chalupecky/pdf/Chalupecky-phd-thesis.pdf&#34;&gt;&lt;em&gt;Non-linear diffusion PDEs and their
 application&lt;/em&gt;&lt;/a&gt;.
@@ -178,9 +178,9 @@ Czech Technical University in Prague, 2008.&lt;/p&gt;
       <guid>http://vladimir-ch.github.io/conferences/</guid>
       <description>
 
-&lt;h1 id=&#34;conferences:7584b1336f4167434e4d29b7084288cc&#34;&gt;Conferences&lt;/h1&gt;
+&lt;h1 id=&#34;conferences&#34;&gt;Conferences&lt;/h1&gt;
 
-&lt;h2 id=&#34;attended-conferences-workshops-and-seminars:7584b1336f4167434e4d29b7084288cc&#34;&gt;Attended conferences, workshops, and seminars&lt;/h2&gt;
+&lt;h2 id=&#34;attended-conferences-workshops-and-seminars&#34;&gt;Attended conferences, workshops, and seminars&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/comfos15/&#34;&gt;CoMFoS15&lt;/a&gt;: Mathematical Analysis of
@@ -269,7 +269,7 @@ and their applications, Prague, Czech Republic, August 2001&lt;/li&gt;
 Universite de Montreal, Montreal, Canada, July 2001&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;research-and-study-stays:7584b1336f4167434e4d29b7084288cc&#34;&gt;Research and study stays&lt;/h2&gt;
+&lt;h2 id=&#34;research-and-study-stays&#34;&gt;Research and study stays&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;One-month project with the EU project HPC-Europa on high-performance
@@ -281,7 +281,7 @@ computing, RWTH Aachen University, Germany, January 2006&lt;/li&gt;
 Spain, October 2003–March 2004&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;conference-organization:7584b1336f4167434e4d29b7084288cc&#34;&gt;Conference organization&lt;/h2&gt;
+&lt;h2 id=&#34;conference-organization&#34;&gt;Conference organization&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/comfos15/&#34;&gt;CoMFoS15&lt;/a&gt;: Mathematical Analysis of
@@ -299,64 +299,64 @@ University, Fukuoka, Japan, November 16–18, 2015&lt;/li&gt;
       <guid>http://vladimir-ch.github.io/software/</guid>
       <description>
 
-&lt;h1 id=&#34;open-source-software-projects:2f393b616dd89a2e372fd85789b1e963&#34;&gt;Open-source software projects&lt;/h1&gt;
+&lt;h1 id=&#34;open-source-software-projects&#34;&gt;Open-source software projects&lt;/h1&gt;
 
-&lt;h2 id=&#34;gonum-https-github-com-gonum:2f393b616dd89a2e372fd85789b1e963&#34;&gt;&lt;a href=&#34;https://github.com/gonum/&#34;&gt;gonum&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;gonum-https-github-com-gonum&#34;&gt;&lt;a href=&#34;https://github.com/gonum/&#34;&gt;gonum&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Actively contributing to the &lt;a href=&#34;https://github.com/gonum/&#34;&gt;gonum&lt;/a&gt; library for
 numerical computations in &lt;a href=&#34;http://www.golang.org/&#34;&gt;the Go programming
 language&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;umeshu-https-github-com-vladimir-ch-umeshu:2f393b616dd89a2e372fd85789b1e963&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/umeshu/&#34;&gt;umeshu&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;umeshu-https-github-com-vladimir-ch-umeshu&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/umeshu/&#34;&gt;umeshu&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;A light-weight, open-source C++ library implementing half-edge data structure
 and algorithms for generating triangular meshes in polygonal domains by
 Delaunay refinement.&lt;/p&gt;
 
-&lt;h2 id=&#34;phf-snakes-https-github-com-vladimir-ch-phf-snakes:2f393b616dd89a2e372fd85789b1e963&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/phf-snakes/&#34;&gt;phf-snakes&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;phf-snakes-https-github-com-vladimir-ch-phf-snakes&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/phf-snakes/&#34;&gt;phf-snakes&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;An C++/OpenMP implementation of an image segmentation algorithm described in
 the paper M. Beneš, V.  Chalupecký, and K. Mikula, &lt;em&gt;Geometrical image
 segmentation by the Allen-Cahn equation&lt;/em&gt;. Applied Numerical Mathematics, &lt;strong&gt;51&lt;/strong&gt;
 (2004), 187–205.&lt;/p&gt;
 
-&lt;h2 id=&#34;concrete-corrosion-https-github-com-vladimir-ch-concrete-corrosion:2f393b616dd89a2e372fd85789b1e963&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/concrete-corrosion/&#34;&gt;concrete-corrosion&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;concrete-corrosion-https-github-com-vladimir-ch-concrete-corrosion&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/concrete-corrosion/&#34;&gt;concrete-corrosion&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;An implementation of a multi-scale ODE/PDE model of concrete corrosion as
 described in the lecture notes A. Muntean, V. Chalupecký, &amp;ldquo;&lt;a href=&#34;http://www.imi.kyushu-u.ac.jp/eng/publishes/pub_inner/id:2/cid:15&#34;&gt;&lt;em&gt;Homogenization
 Method and Multiscale Modeling&lt;/em&gt;&lt;/a&gt;&amp;rdquo;,
 COE Lecture Notes Series Vol. &lt;strong&gt;34&lt;/strong&gt;, Kyushu University (2011).&lt;/p&gt;
 
-&lt;h2 id=&#34;thin-plate-splines-https-github-com-vladimir-ch-thin-plate-splines:2f393b616dd89a2e372fd85789b1e963&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/thin-plate-splines/&#34;&gt;thin-plate-splines&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;thin-plate-splines-https-github-com-vladimir-ch-thin-plate-splines&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/thin-plate-splines/&#34;&gt;thin-plate-splines&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;A tiny C++ library for data interpolation/transformation/deformation using
 polyharmonic splines.&lt;/p&gt;
 
-&lt;h2 id=&#34;polar-decomposition-https-github-com-vladimir-ch-polar-decomposition:2f393b616dd89a2e372fd85789b1e963&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/polar-decomposition/&#34;&gt;polar-decomposition&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;polar-decomposition-https-github-com-vladimir-ch-polar-decomposition&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/polar-decomposition/&#34;&gt;polar-decomposition&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;A tiny C++ routine for computing the polar decomposition of square matrices
 using an iterative algorithm proposed in N. Higham, &lt;em&gt;Computing the polar
 decomposition with applications&lt;/em&gt;. SIAM J. Sci. Stat. Comput. &lt;strong&gt;7&lt;/strong&gt;(4) (1986),
 1160–1174. &lt;a href=&#34;http://dx.doi.org/10.1137%2F0907079&#34;&gt;doi:10.&lt;sup&gt;1137&lt;/sup&gt;&amp;frasl;&lt;sub&gt;0907079&lt;/sub&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;odeity-https-github-com-vladimir-ch-odeity:2f393b616dd89a2e372fd85789b1e963&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/odeity/&#34;&gt;odeity&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;odeity-https-github-com-vladimir-ch-odeity&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/odeity/&#34;&gt;odeity&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;A small C++ library for solving systems of ODEs with a focus on systems arising
 in the semi-discretization of partial differential equations. It implements
 several explicit variable-step Runge-Kutta methods and provides an interface to
 the &lt;a href=&#34;https://computation.llnl.gov/casc/sundials/main.html&#34;&gt;CVODE&lt;/a&gt; library.&lt;/p&gt;
 
-&lt;h1 id=&#34;openflipper-plugins:2f393b616dd89a2e372fd85789b1e963&#34;&gt;OpenFlipper Plugins&lt;/h1&gt;
+&lt;h1 id=&#34;openflipper-plugins&#34;&gt;OpenFlipper Plugins&lt;/h1&gt;
 
 &lt;p&gt;Plugins for &lt;a href=&#34;http://www.openflipper.org/&#34;&gt;OpenFlipper&lt;/a&gt; geometry processing
 framework.&lt;/p&gt;
 
-&lt;h2 id=&#34;plugin-align-https-github-com-vladimir-ch-plugin-align:2f393b616dd89a2e372fd85789b1e963&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/Plugin-Align&#34;&gt;Plugin-Align&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;plugin-align-https-github-com-vladimir-ch-plugin-align&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/Plugin-Align&#34;&gt;Plugin-Align&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;This plugin aligns two triangular or polyhedral meshes using PCA with an
 optional rescaling.&lt;/p&gt;
 
-&lt;h2 id=&#34;plugin-extractsurface-https-github-com-vladimir-ch-plugin-extractsurface:2f393b616dd89a2e372fd85789b1e963&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/Plugin-ExtractSurface&#34;&gt;Plugin-ExtractSurface&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;plugin-extractsurface-https-github-com-vladimir-ch-plugin-extractsurface&#34;&gt;&lt;a href=&#34;https://github.com/vladimir-ch/Plugin-ExtractSurface&#34;&gt;Plugin-ExtractSurface&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;This plugin creates a &lt;code&gt;TriMesh&lt;/code&gt; or &lt;code&gt;PolyMesh&lt;/code&gt; from boundary faces of a
 &lt;code&gt;PolyhedralMesh&lt;/code&gt; or &lt;code&gt;HexahedralMesh&lt;/code&gt;.&lt;/p&gt;
