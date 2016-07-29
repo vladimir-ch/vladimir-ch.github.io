@@ -8,6 +8,9 @@ weight = 3
 
 ## Attended conferences, workshops, and seminars
 
+* [7th Workshop on Mathematical Analysis for Nonlinear Phenomena](https://sites.google.com/site/masatowebj/wmanp01),
+  Kanazawa University, Kanazawa, Japan, June 29, 2016 (oral presentation: _A
+  two-scale bulk-surface model of thin film growth by liquid phase epitaxy_)
 * [CoMFoS15](https://sites.google.com/site/comfos15/): Mathematical Analysis of
   Continuum Mechanics and Industrial Applications, Nishijin Plaza, Kyushu
   University, Fukuoka, Japan, November 16–18, 2015 (conference presentation:
