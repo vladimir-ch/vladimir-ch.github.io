@@ -34,9 +34,11 @@ weight = 2
 
 ## Peer-reviewed conference contributions
 
-* V. Chalupecký, M. Kimura, _An energy-consistent model of dislocation dynamics
-  in an elastic body_. Proceedings of MCNPMS2014: Mathematical Challenge to a
-  New Phase of Materials Science, Kyoto, Japan, 2014 (accepted),
+* V. Chalupecký, M. Kimura, [_An energy-consistent model of dislocation dynamics
+  in an elastic body_](http://dx.doi.org/10.1007/978-4-431-56104-0_3).
+  In Y. Nishiura, M. Kotani (Eds.), _Proceedings of Mathematical Challenges in a
+  New Phase of Materials Science_, Kyoto, Japan, August 2014. Springer Japan,
+  Tokyo (2016), pp. 53–68
   [arXiv:1601.02182](http://arxiv.org/abs/1601.02182)
 
 * V. Chalupecký, H. Emmerich, [_Numerical scheme for two-scale model of liquid
