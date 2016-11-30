@@ -106,8 +106,11 @@ weight = 3
 * Study stay with the EU project Erasmus, Universidad Miguel Hernandez, Elche,
   Spain, October 2003–March 2004
 
-## Conference organization
+## Organizing Committee
 
 * [CoMFoS15](https://sites.google.com/site/comfos15/): Mathematical Analysis of
   Continuum Mechanics and Industrial Applications, Nishijin Plaza, Kyushu
   University, Fukuoka, Japan, November 16–18, 2015
+* [CoMFoS16](https://sites.google.com/site/comfos16/): Mathematical Analysis of
+  Continuum Mechanics and Industrial Applications II, Nishijin Plaza, Kyushu
+  University, Fukuoka, Japan, October 22–24, 2016

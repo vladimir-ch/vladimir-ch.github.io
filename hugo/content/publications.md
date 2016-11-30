@@ -106,6 +106,13 @@ Preprints on [arXiv.org](http://arxiv.org/a/chalupecky_v_1)
   Problems](http://rd.springer.com/book/10.1007%2F3-540-35657-6), Springer
   (2006)
 
+## Proceedings editor
+
+* H. Itou, M. Kimura, V. Chalupecký, K. Ohtsuka, D. Tagami, A. Takada (Eds.),
+  [Mathematical Analysis of Continuum Mechanics and Industrial Applications](http://link.springer.com/book/10.1007%2F978-981-10-2633-1).
+  Proceedings of the International Conference CoMFoS15. Mathematics for
+  Industry, Vol. 26, Springer (2017)
+
 ## PhD thesis
 
 Vladimír Chalupecký, [_Non-linear diffusion PDEs and their

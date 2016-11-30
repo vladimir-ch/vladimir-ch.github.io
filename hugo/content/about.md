@@ -6,11 +6,12 @@ weight = 1
 
 # About me
 
-An R&amp;D Engineer working on biomedical simulations and medical image
-processing at Fujitsu Limited, Japan.
+Applied mathematician and software engineer
 
 ## Past affiliations
 
+* [Biomedical Simulation Project](http://jp.fujitsu.com/solutions/medical///nhic/seitai/index.html),
+  Fujitsu Limited, Tokyo, Japan
 * [Institute of Math-for-Industry](http://www.imi.kyushu-u.ac.jp/), Kyushu
   University, Japan
 * Faculty of Mathematics, Kyushu University, Japan
