@@ -1,0 +1,12 @@
+baseURL = "https://chalupecky.dev/"
+footnoteReturnLinkContents = "↩"
+title = "My Hugo Site"
+
+[params]
+  AuthorName = "Vladimir Chalupecky"
+  GitHubUser = "vladimir-ch"
+  SidebarRecentLimit = 5
+  Subtitle = "Hugo is Absurdly Fast!"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
