@@ -1,8 +1,0 @@
-Baseurl = "http://vladimir-ch.github.io/"
-LanguageCode = "en"
-Title = "Vladimír Chalupecký"
-
-newContentEditor = "vim"
-
-[params]
-author = "Vladimír Chalupecký"
